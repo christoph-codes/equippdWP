@@ -1,0 +1,2 @@
+# equippdWP
+Equippd Wordpress Site
